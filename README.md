@@ -16,7 +16,8 @@ https://github.com/Dilmik425/ict171-assignment2.git
 http://djrealestate.online
 
 ## Video Explainer
-👉 [Insert your YouTube or Google Drive link here]
+https://drive.google.com/file/d/1dN7P-ok4lWqWkg4QUI5J5IHS8QxXpyfI/view?usp=share_link
+
 
 ## Features
 - Ubuntu 22.04 server (DigitalOcean)
